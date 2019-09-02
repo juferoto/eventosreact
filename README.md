@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). And it is available on Netlify in the following link https://amazing-goldstine-37534b.netlify.com/
 
 ## Available Scripts
 
